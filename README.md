@@ -1,4 +1,5 @@
-# H2OGame - Open Source PHP Arcade Game Script
+# H2KGame - Open Source PHP Arcade Game Script
+(A FORK OF H2OGame)
 
 ![](https://github.com/pH-7/H2OGame/blob/master/Documentation/H2O_preview_image.jpg)
 
